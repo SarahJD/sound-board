@@ -1,7 +1,5 @@
-# Project Title
+# Sound Board
 
-This is a simple progress bar using JavaScript to navigate and show the progress between the 4 points.
+This is a simple sound board created with the HTML5 audio API.
 
-This is the 2nd project from Brad Traversy's Udemy Course "50 Projects in 50 Days - HTML, CSS & JavaScript".
-
-
+This is the 9th project from Brad Traversy's Udemy Course "50 Projects in 50 Days - HTML, CSS & JavaScript".
